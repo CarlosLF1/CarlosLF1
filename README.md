@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosLF1
 - 👀 I’m interested in ... the SaaS field. It fascinates me. I have prev worked in Growth marketing and biz development.
-- 🌱 I’m currently learning ... trough TOP and Udemy (Colt Steel) from scratch I might add.
+- 🌱 I’m currently learning ...Epicode/Strive school web develpment (full stack)
 - 💞️ I’m looking to collaborate on ...the learning process of becoming a developer
 - 📫 How to reach me ...Im in the Nordics and can be reached here, discord, facebook, LinkedIn and email
 
