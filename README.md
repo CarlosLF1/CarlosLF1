@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CarlosLF1
-- 👀 I’m interested in ... the SaaS field. It fascinates me. I have prev worked in Growth and am now a Front end dev with Hunome.
-- 🌱 I’m a full-stack dev engineer (junior) with many business skills, biz dev, MarTech, user journey etc looking for experience.
-- 💞️ I’m looking to collaborate on ...getting experience as a developer and to share my skills.
-- 📫 How to reach me ...Im in the Nordics and can be reached here, discord, LinkedIn and email
+- 👀 I work in SaaS. It fascinates me. I have previously worked in Growth and am now a Front-end dev and Founder of my start-up.
+- 🌱 My start-up app is made-for-purpose for a specific industry and is nextJs, React, NodeJs, MongoDB, Express with MUI and Tailwind as its stack.
+- 📫 How to reach me ...I'm in the Nordics and can be reached here via Discord, LinkedIn and email
 
 1
 2
